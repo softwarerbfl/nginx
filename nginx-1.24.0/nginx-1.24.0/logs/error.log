@@ -1,0 +1,162 @@
+2023/08/01 11:08:53 [error] 14680#26736: *1 CreateFile() "C:\Users\missr\Downloads\nginx-1.24.0\nginx-1.24.0/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/08/01 11:14:18 [notice] 8264#20168: signal process started
+2023/08/01 12:47:38 [notice] 25188#20496: signal process started
+2023/08/01 12:47:45 [notice] 30348#19644: signal process started
+2023/08/01 12:49:36 [notice] 20772#14328: signal process started
+2023/08/01 12:50:34 [notice] 13564#27228: signal process started
+2023/08/01 12:52:08 [notice] 3060#15244: signal process started
+2023/08/01 12:54:49 [error] 6636#16036: *1 CreateFile() "C:/TAcademy/nginx/MYSITE/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2023/08/01 13:19:26 [notice] 17832#9676: signal process started
+2023/08/01 13:20:10 [notice] 14628#21704: signal process started
+2023/08/01 13:23:51 [notice] 13388#23448: signal process started
+2023/08/01 13:26:23 [warn] 29556#26592: duplicate extension "css", content type: "text/css", previous content type: "text/css" in C:\Users\missr\Downloads\nginx-1.24.0\nginx-1.24.0/conf/nginx.conf:4
+2023/08/01 13:26:23 [warn] 29556#26592: duplicate extension "html", content type: "text/html", previous content type: "text/html" in C:\Users\missr\Downloads\nginx-1.24.0\nginx-1.24.0/conf/nginx.conf:5
+2023/08/01 13:26:23 [notice] 29556#26592: signal process started
+2023/08/01 13:26:23 [warn] 12092#9800: duplicate extension "css", content type: "text/css", previous content type: "text/css" in C:\Users\missr\Downloads\nginx-1.24.0\nginx-1.24.0/conf/nginx.conf:4
+2023/08/01 13:26:23 [warn] 12092#9800: duplicate extension "html", content type: "text/html", previous content type: "text/html" in C:\Users\missr\Downloads\nginx-1.24.0\nginx-1.24.0/conf/nginx.conf:5
+2023/08/01 13:26:39 [notice] 31672#29268: signal process started
+2023/08/01 13:28:46 [notice] 18208#7456: signal process started
+2023/08/01 13:39:09 [notice] 14104#16516: signal process started
+2023/08/01 13:40:28 [notice] 30468#19472: signal process started
+2023/08/01 13:47:37 [notice] 23556#16268: signal process started
+2023/08/01 13:51:35 [error] 6636#16036: *53 CreateFile() "C:/TAcademy/nginx/MYSITE/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2023/08/01 13:51:47 [notice] 10604#3408: signal process started
+2023/08/01 13:52:35 [error] 6636#16036: *51 CreateFile() "C:/TAcademy/nginx/MYSITE/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2023/08/01 13:52:37 [error] 6636#16036: *51 CreateFile() "C:/TAcademy/nginx/MYSITE/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2023/08/01 13:52:37 [error] 6636#16036: *51 CreateFile() "C:/TAcademy/nginx/MYSITE/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2023/08/01 13:52:38 [error] 6636#16036: *51 CreateFile() "C:/TAcademy/nginx/MYSITE/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2023/08/01 13:52:38 [error] 6636#16036: *51 CreateFile() "C:/TAcademy/nginx/MYSITE/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2023/08/01 13:52:39 [error] 6636#16036: *51 CreateFile() "C:/TAcademy/nginx/MYSITE/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2023/08/01 13:52:39 [error] 6636#16036: *51 CreateFile() "C:/TAcademy/nginx/MYSITE/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2023/08/01 13:52:39 [error] 6636#16036: *51 CreateFile() "C:/TAcademy/nginx/MYSITE/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2023/08/01 13:52:39 [error] 6636#16036: *51 CreateFile() "C:/TAcademy/nginx/MYSITE/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2023/08/01 13:52:39 [error] 6636#16036: *51 CreateFile() "C:/TAcademy/nginx/MYSITE/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2023/08/01 13:54:41 [notice] 22224#22544: signal process started
+2023/08/01 13:54:43 [notice] 25840#13320: signal process started
+2023/08/01 13:54:43 [error] 25840#13320: CreateFile() "C:\Users\missr\Downloads\nginx-1.24.0\nginx-1.24.0/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2023/08/01 13:54:48 [notice] 5272#26584: signal process started
+2023/08/01 13:54:48 [error] 5272#26584: CreateFile() "C:\Users\missr\Downloads\nginx-1.24.0\nginx-1.24.0/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2023/08/01 13:54:58 [notice] 18420#20496: signal process started
+2023/08/01 13:56:15 [notice] 8804#31060: signal process started
+2023/08/01 14:10:48 [notice] 30360#9880: signal process started
+2023/08/01 14:10:56 [error] 6636#16036: *64 CreateFile() "C:/TAcademy/nginx/MYSITE/fruit" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /fruit HTTP/1.1", host: "localhost:8080"
+2023/08/01 14:15:15 [notice] 19340#15400: signal process started
+2023/08/01 14:18:18 [notice] 14912#17136: signal process started
+2023/08/01 14:18:26 [error] 6636#16036: *69 directory index of "C:/TAcademy/nginx/MYSITE/vegetables/" is forbidden, client: 127.0.0.1, server: , request: "GET /vegetables/ HTTP/1.1", host: "localhost:8080"
+2023/08/01 14:21:32 [emerg] 21704#24348: unexpected "}" in C:\Users\missr\Downloads\nginx-1.24.0\nginx-1.24.0/conf/nginx.conf:10
+2023/08/01 14:21:49 [emerg] 21748#13668: unexpected "}" in C:\Users\missr\Downloads\nginx-1.24.0\nginx-1.24.0/conf/nginx.conf:10
+2023/08/01 14:22:29 [emerg] 17492#2756: unexpected "}" in C:\Users\missr\Downloads\nginx-1.24.0\nginx-1.24.0/conf/nginx.conf:15
+2023/08/01 16:37:32 [error] 6636#16036: *77 CreateFile() "C:/TAcademy/nginx/MYSITE/carbs" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /carbs HTTP/1.1", host: "localhost:8080"
+2023/08/01 16:37:55 [emerg] 8292#6452: unexpected "}" in C:\Users\missr\Downloads\nginx-1.24.0\nginx-1.24.0/conf/nginx.conf:15
+2023/08/01 16:38:05 [emerg] 20496#19180: "events" directive is not allowed here in C:\Users\missr\Downloads\nginx-1.24.0\nginx-1.24.0/conf/nginx.conf:23
+2023/08/01 16:38:13 [emerg] 26172#13556: "events" directive is not allowed here in C:\Users\missr\Downloads\nginx-1.24.0\nginx-1.24.0/conf/nginx.conf:23
+2023/08/01 16:38:28 [emerg] 35600#34044: "events" directive is not allowed here in C:\Users\missr\Downloads\nginx-1.24.0\nginx-1.24.0/conf/nginx.conf:23
+2023/08/01 16:38:34 [notice] 10760#15888: signal process started
+2023/08/01 16:38:37 [error] 6636#16036: *77 CreateFile() "C:/TAcademy/nginx/MYSITE/carbs" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /carbs HTTP/1.1", host: "localhost:8080"
+2023/08/01 16:38:37 [error] 6636#16036: *77 CreateFile() "C:/TAcademy/nginx/MYSITE/carbs" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /carbs HTTP/1.1", host: "localhost:8080"
+2023/08/01 16:38:38 [error] 6636#16036: *77 CreateFile() "C:/TAcademy/nginx/MYSITE/carbs" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /carbs HTTP/1.1", host: "localhost:8080"
+2023/08/01 16:38:38 [error] 6636#16036: *77 CreateFile() "C:/TAcademy/nginx/MYSITE/carbs" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /carbs HTTP/1.1", host: "localhost:8080"
+2023/08/01 16:38:38 [error] 6636#16036: *77 CreateFile() "C:/TAcademy/nginx/MYSITE/carbs" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /carbs HTTP/1.1", host: "localhost:8080"
+2023/08/01 16:38:38 [error] 6636#16036: *77 CreateFile() "C:/TAcademy/nginx/MYSITE/carbs" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /carbs HTTP/1.1", host: "localhost:8080"
+2023/08/01 16:38:39 [error] 6636#16036: *77 CreateFile() "C:/TAcademy/nginx/MYSITE/carbs" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /carbs HTTP/1.1", host: "localhost:8080"
+2023/08/01 16:38:39 [error] 6636#16036: *77 CreateFile() "C:/TAcademy/nginx/MYSITE/carbs" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /carbs HTTP/1.1", host: "localhost:8080"
+2023/08/01 16:38:39 [error] 6636#16036: *77 CreateFile() "C:/TAcademy/nginx/MYSITE/carbs" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /carbs HTTP/1.1", host: "localhost:8080"
+2023/08/01 16:38:39 [error] 6636#16036: *77 CreateFile() "C:/TAcademy/nginx/MYSITE/carbs" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /carbs HTTP/1.1", host: "localhost:8080"
+2023/08/01 16:39:05 [error] 6636#16036: *77 CreateFile() "C:/TAcademy/nginx/MYSITE/carbs" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /carbs HTTP/1.1", host: "localhost:8080"
+2023/08/01 16:39:11 [error] 6636#16036: *77 CreateFile() "C:/TAcademy/nginx/MYSITE/carbs" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /carbs HTTP/1.1", host: "localhost:8080"
+2023/08/01 16:42:28 [notice] 16188#34784: signal process started
+2023/08/01 16:42:30 [notice] 5712#35672: signal process started
+2023/08/01 16:42:30 [error] 5712#35672: CreateFile() "C:\Users\missr\Downloads\nginx-1.24.0\nginx-1.24.0/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2023/08/01 16:43:00 [notice] 35448#30364: signal process started
+2023/08/01 16:43:14 [error] 6636#16036: *81 CreateFile() "C:/TAcademy/nginx/MYSITE/carbs" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /carbs HTTP/1.1", host: "localhost:8080"
+2023/08/01 16:48:47 [error] 6636#16036: *83 CreateFile() "C:/TAcademy/nginx/MYSITE/carbs" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /carbs HTTP/1.1", host: "localhost:8080"
+2023/08/01 16:48:48 [error] 6636#16036: *83 CreateFile() "C:/TAcademy/nginx/MYSITE/carbs" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /carbs HTTP/1.1", host: "localhost:8080"
+2023/08/01 16:48:48 [error] 6636#16036: *83 CreateFile() "C:/TAcademy/nginx/MYSITE/carbs" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /carbs HTTP/1.1", host: "localhost:8080"
+2023/08/01 16:48:48 [error] 6636#16036: *83 CreateFile() "C:/TAcademy/nginx/MYSITE/carbs" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /carbs HTTP/1.1", host: "localhost:8080"
+2023/08/01 16:48:49 [error] 6636#16036: *83 CreateFile() "C:/TAcademy/nginx/MYSITE/carbs" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /carbs HTTP/1.1", host: "localhost:8080"
+2023/08/01 16:49:29 [notice] 26252#33976: signal process started
+2023/08/01 16:49:32 [error] 6636#16036: *83 CreateFile() "C:/TAcademy/nginx/MYSITE/carbs" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /carbs HTTP/1.1", host: "localhost:8080"
+2023/08/01 16:49:37 [error] 6636#16036: *83 directory index of "C:/TAcademy/nginx/MYSITE/vegetables/" is forbidden, client: 127.0.0.1, server: , request: "GET /vegetables/ HTTP/1.1", host: "localhost:8080"
+2023/08/01 16:49:44 [error] 6636#16036: *83 directory index of "C:/TAcademy/nginx/MYSITE/vegetables/" is forbidden, client: 127.0.0.1, server: , request: "GET /vegetables/ HTTP/1.1", host: "localhost:8080"
+2023/08/01 16:50:01 [error] 6636#16036: *83 directory index of "C:/TAcademy/nginx/MYSITE/vegetables/" is forbidden, client: 127.0.0.1, server: , request: "GET /vegetables/ HTTP/1.1", host: "localhost:8080"
+2023/08/01 16:50:10 [error] 6636#16036: *83 directory index of "C:/TAcademy/nginx/MYSITE/vegetables/" is forbidden, client: 127.0.0.1, server: , request: "GET /vegetables/ HTTP/1.1", host: "localhost:8080"
+2023/08/01 16:50:15 [error] 6636#16036: *83 directory index of "C:/TAcademy/nginx/MYSITE/vegetables/" is forbidden, client: 127.0.0.1, server: , request: "GET /vegetables/ HTTP/1.1", host: "localhost:8080"
+2023/08/01 16:50:15 [error] 6636#16036: *83 directory index of "C:/TAcademy/nginx/MYSITE/vegetables/" is forbidden, client: 127.0.0.1, server: , request: "GET /vegetables/ HTTP/1.1", host: "localhost:8080"
+2023/08/01 16:50:16 [error] 6636#16036: *83 directory index of "C:/TAcademy/nginx/MYSITE/vegetables/" is forbidden, client: 127.0.0.1, server: , request: "GET /vegetables/ HTTP/1.1", host: "localhost:8080"
+2023/08/01 16:50:16 [error] 6636#16036: *83 directory index of "C:/TAcademy/nginx/MYSITE/vegetables/" is forbidden, client: 127.0.0.1, server: , request: "GET /vegetables/ HTTP/1.1", host: "localhost:8080"
+2023/08/01 16:50:16 [error] 6636#16036: *83 directory index of "C:/TAcademy/nginx/MYSITE/vegetables/" is forbidden, client: 127.0.0.1, server: , request: "GET /vegetables/ HTTP/1.1", host: "localhost:8080"
+2023/08/01 16:50:17 [error] 6636#16036: *83 directory index of "C:/TAcademy/nginx/MYSITE/vegetables/" is forbidden, client: 127.0.0.1, server: , request: "GET /vegetables/ HTTP/1.1", host: "localhost:8080"
+2023/08/01 16:50:17 [error] 6636#16036: *83 directory index of "C:/TAcademy/nginx/MYSITE/vegetables/" is forbidden, client: 127.0.0.1, server: , request: "GET /vegetables/ HTTP/1.1", host: "localhost:8080"
+2023/08/01 16:50:18 [error] 6636#16036: *83 directory index of "C:/TAcademy/nginx/MYSITE/vegetables/" is forbidden, client: 127.0.0.1, server: , request: "GET /vegetables/ HTTP/1.1", host: "localhost:8080"
+2023/08/02 09:06:55 [error] 7024#20244: *1 CreateFile() "C:/TAcademy/nginx/MYSITE/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2023/08/02 09:39:51 [notice] 34896#7028: signal process started
+2023/08/02 16:45:58 [error] 7024#20244: *7 CreateFile() "C:/TAcademy/nginx/MYSITE/carb" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /carb HTTP/1.1", host: "localhost:8080"
+2023/08/02 16:46:45 [crit] 7024#20244: *7 GetFileAttributesEx() "C:/TAcademy/nginx/MYSITEC:/TAcademy/nginx/MYSITE/vegetables/veggies.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: , request: "GET /vegetables HTTP/1.1", host: "localhost:8080"
+2023/08/02 16:47:57 [crit] 7024#20244: *7 GetFileAttributesEx() "C:/TAcademy/nginx/MYSITEC:/TAcademy/nginx/MYSITE/vegetables/veggies.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: , request: "GET /vegetables HTTP/1.1", host: "localhost:8080"
+2023/08/02 16:48:38 [crit] 7024#20244: *7 GetFileAttributesEx() "C:/TAcademy/nginx/MYSITEC:/TAcademy/nginx/MYSITE/vegetables/veggies.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: , request: "GET /vegetables HTTP/1.1", host: "localhost:8080"
+2023/08/02 16:48:39 [crit] 7024#20244: *7 GetFileAttributesEx() "C:/TAcademy/nginx/MYSITEC:/TAcademy/nginx/MYSITE/vegetables/veggies.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: , request: "GET /vegetables HTTP/1.1", host: "localhost:8080"
+2023/08/02 16:48:56 [notice] 11740#20768: signal process started
+2023/08/02 16:49:06 [notice] 7564#24768: signal process started
+2023/08/02 16:49:06 [error] 7564#24768: CreateFile() "C:\Users\missr\Downloads\nginx-1.24.0\nginx-1.24.0/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2023/08/02 16:49:12 [crit] 7024#20244: *7 GetFileAttributesEx() "C:/TAcademy/nginx/MYSITEC:/TAcademy/nginx/MYSITE/vegetables/veggies.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: , request: "GET /vegetables HTTP/1.1", host: "localhost:8080"
+2023/08/02 16:50:15 [notice] 32448#24808: signal process started
+2023/08/02 16:50:29 [crit] 7024#20244: *7 GetFileAttributesEx() "C:/TAcademy/nginx/MYSITEC:/TAcademy/nginx/MYSITE/vegetables/veggies.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: , request: "GET /vegetables HTTP/1.1", host: "localhost:8080"
+2023/08/02 16:50:30 [crit] 7024#20244: *7 GetFileAttributesEx() "C:/TAcademy/nginx/MYSITEC:/TAcademy/nginx/MYSITE/vegetables/veggies.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: , request: "GET /vegetables HTTP/1.1", host: "localhost:8080"
+2023/08/02 16:50:30 [crit] 7024#20244: *7 GetFileAttributesEx() "C:/TAcademy/nginx/MYSITEC:/TAcademy/nginx/MYSITE/vegetables/veggies.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: , request: "GET /vegetables HTTP/1.1", host: "localhost:8080"
+2023/08/02 16:50:31 [crit] 7024#20244: *7 GetFileAttributesEx() "C:/TAcademy/nginx/MYSITEC:/TAcademy/nginx/MYSITE/vegetables/veggies.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: , request: "GET /vegetables HTTP/1.1", host: "localhost:8080"
+2023/08/02 16:50:31 [crit] 7024#20244: *7 GetFileAttributesEx() "C:/TAcademy/nginx/MYSITEC:/TAcademy/nginx/MYSITE/vegetables/veggies.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: , request: "GET /vegetables HTTP/1.1", host: "localhost:8080"
+2023/08/02 16:50:31 [crit] 7024#20244: *7 GetFileAttributesEx() "C:/TAcademy/nginx/MYSITEC:/TAcademy/nginx/MYSITE/vegetables/veggies.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: , request: "GET /vegetables HTTP/1.1", host: "localhost:8080"
+2023/08/02 16:50:31 [crit] 7024#20244: *7 GetFileAttributesEx() "C:/TAcademy/nginx/MYSITEC:/TAcademy/nginx/MYSITE/vegetables/veggies.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: , request: "GET /vegetables HTTP/1.1", host: "localhost:8080"
+2023/08/02 16:50:31 [crit] 7024#20244: *7 GetFileAttributesEx() "C:/TAcademy/nginx/MYSITEC:/TAcademy/nginx/MYSITE/vegetables/veggies.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: , request: "GET /vegetables HTTP/1.1", host: "localhost:8080"
+2023/08/02 16:50:31 [crit] 7024#20244: *7 GetFileAttributesEx() "C:/TAcademy/nginx/MYSITEC:/TAcademy/nginx/MYSITE/vegetables/veggies.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: , request: "GET /vegetables HTTP/1.1", host: "localhost:8080"
+2023/08/02 16:50:32 [crit] 7024#20244: *7 GetFileAttributesEx() "C:/TAcademy/nginx/MYSITEC:/TAcademy/nginx/MYSITE/vegetables/veggies.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: , request: "GET /vegetables HTTP/1.1", host: "localhost:8080"
+2023/08/02 16:50:32 [crit] 7024#20244: *7 GetFileAttributesEx() "C:/TAcademy/nginx/MYSITEC:/TAcademy/nginx/MYSITE/vegetables/veggies.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: , request: "GET /vegetables HTTP/1.1", host: "localhost:8080"
+2023/08/02 16:50:32 [crit] 7024#20244: *7 GetFileAttributesEx() "C:/TAcademy/nginx/MYSITEC:/TAcademy/nginx/MYSITE/vegetables/veggies.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: , request: "GET /vegetables HTTP/1.1", host: "localhost:8080"
+2023/08/02 16:50:32 [crit] 7024#20244: *7 GetFileAttributesEx() "C:/TAcademy/nginx/MYSITEC:/TAcademy/nginx/MYSITE/vegetables/veggies.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: , request: "GET /vegetables HTTP/1.1", host: "localhost:8080"
+2023/08/02 16:50:32 [crit] 7024#20244: *7 GetFileAttributesEx() "C:/TAcademy/nginx/MYSITEC:/TAcademy/nginx/MYSITE/vegetables/veggies.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: , request: "GET /vegetables HTTP/1.1", host: "localhost:8080"
+2023/08/02 16:50:32 [crit] 7024#20244: *7 GetFileAttributesEx() "C:/TAcademy/nginx/MYSITEC:/TAcademy/nginx/MYSITE/vegetables/veggies.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: , request: "GET /vegetables HTTP/1.1", host: "localhost:8080"
+2023/08/02 16:59:54 [notice] 27360#38872: signal process started
+2023/08/02 17:00:03 [crit] 7024#20244: *14 GetFileAttributesEx() "C:/TAcademy/nginx/MYSITEC:/TAcademy/nginx/MYSITE/vegetables/veggies.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: , request: "GET /vegetables HTTP/1.1", host: "localhost:8080"
+2023/08/02 17:00:28 [error] 7024#20244: *14 CreateFile() "C:/TAcademy/nginx/MYSITE/count/1" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /count/1 HTTP/1.1", host: "localhost:8080"
+2023/08/02 17:00:32 [error] 7024#20244: *14 "C:/TAcademy/nginx/MYSITE/count/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /count/ HTTP/1.1", host: "localhost:8080"
+2023/08/02 17:01:21 [error] 7024#20244: *14 CreateFile() "C:/TAcademy/nginx/MYSITE/count/1" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /count/1 HTTP/1.1", host: "localhost:8080"
+2023/08/02 17:01:26 [error] 7024#20244: *14 CreateFile() "C:/TAcademy/nginx/MYSITE/count/1" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /count/1 HTTP/1.1", host: "localhost:8080"
+2023/08/02 17:01:50 [notice] 36264#37484: signal process started
+2023/08/02 17:01:53 [notice] 22636#26912: signal process started
+2023/08/02 17:01:53 [error] 22636#26912: CreateFile() "C:\Users\missr\Downloads\nginx-1.24.0\nginx-1.24.0/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2023/08/02 17:02:08 [notice] 12924#36332: signal process started
+2023/08/02 17:02:31 [error] 7024#20244: *14 CreateFile() "C:/TAcademy/nginx/MYSITE/count/1" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /count/1 HTTP/1.1", host: "localhost:8080"
+2023/08/02 17:02:31 [error] 7024#20244: *14 CreateFile() "C:/TAcademy/nginx/MYSITE/count/1" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /count/1 HTTP/1.1", host: "localhost:8080"
+2023/08/02 17:02:31 [error] 7024#20244: *14 CreateFile() "C:/TAcademy/nginx/MYSITE/count/1" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /count/1 HTTP/1.1", host: "localhost:8080"
+2023/08/02 17:02:31 [error] 7024#20244: *14 CreateFile() "C:/TAcademy/nginx/MYSITE/count/1" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /count/1 HTTP/1.1", host: "localhost:8080"
+2023/08/02 17:02:31 [error] 7024#20244: *14 CreateFile() "C:/TAcademy/nginx/MYSITE/count/1" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /count/1 HTTP/1.1", host: "localhost:8080"
+2023/08/02 17:02:32 [error] 7024#20244: *14 CreateFile() "C:/TAcademy/nginx/MYSITE/count/1" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /count/1 HTTP/1.1", host: "localhost:8080"
+2023/08/02 17:02:32 [error] 7024#20244: *14 CreateFile() "C:/TAcademy/nginx/MYSITE/count/1" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /count/1 HTTP/1.1", host: "localhost:8080"
+2023/08/02 17:02:32 [error] 7024#20244: *14 CreateFile() "C:/TAcademy/nginx/MYSITE/count/1" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /count/1 HTTP/1.1", host: "localhost:8080"
+2023/08/02 17:02:32 [error] 7024#20244: *14 CreateFile() "C:/TAcademy/nginx/MYSITE/count/1" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /count/1 HTTP/1.1", host: "localhost:8080"
+2023/08/02 17:02:32 [error] 7024#20244: *14 CreateFile() "C:/TAcademy/nginx/MYSITE/count/1" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /count/1 HTTP/1.1", host: "localhost:8080"
+2023/08/02 17:02:32 [error] 7024#20244: *14 CreateFile() "C:/TAcademy/nginx/MYSITE/count/1" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /count/1 HTTP/1.1", host: "localhost:8080"
+2023/08/02 17:02:59 [notice] 19580#3296: signal process started
+2023/08/02 17:03:12 [error] 7024#20244: *14 CreateFile() "C:/TAcademy/nginx/MYSITE/count/1" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /count/1 HTTP/1.1", host: "localhost:8080"
+2023/08/02 17:03:13 [error] 7024#20244: *14 CreateFile() "C:/TAcademy/nginx/MYSITE/count/1" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /count/1 HTTP/1.1", host: "localhost:8080"
+2023/08/02 17:03:13 [error] 7024#20244: *14 CreateFile() "C:/TAcademy/nginx/MYSITE/count/1" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /count/1 HTTP/1.1", host: "localhost:8080"
+2023/08/02 17:03:13 [error] 7024#20244: *14 CreateFile() "C:/TAcademy/nginx/MYSITE/count/1" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /count/1 HTTP/1.1", host: "localhost:8080"
+2023/08/02 17:03:14 [error] 7024#20244: *14 CreateFile() "C:/TAcademy/nginx/MYSITE/count/1" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /count/1 HTTP/1.1", host: "localhost:8080"
+2023/08/02 17:06:02 [error] 7024#20244: *19 CreateFile() "C:/TAcademy/nginx/MYSITE/count/1" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /count/1 HTTP/1.1", host: "localhost:8080"
+2023/08/02 17:08:43 [notice] 10788#14036: signal process started
+2023/08/02 17:08:47 [error] 7024#20244: *21 CreateFile() "C:/TAcademy/nginx/MYSITE/count/1" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /count/1 HTTP/1.1", host: "localhost:8080"
+2023/08/02 17:08:48 [error] 7024#20244: *21 CreateFile() "C:/TAcademy/nginx/MYSITE/count/1" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /count/1 HTTP/1.1", host: "localhost:8080"
+2023/08/02 17:08:50 [error] 7024#20244: *21 CreateFile() "C:/TAcademy/nginx/MYSITE/count/2" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /count/2 HTTP/1.1", host: "localhost:8080"
+2023/08/02 17:08:52 [error] 7024#20244: *21 CreateFile() "C:/TAcademy/nginx/MYSITE/count/3" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /count/3 HTTP/1.1", host: "localhost:8080"
+2023/08/03 09:45:00 [error] 37364#31004: *1 CreateFile() "C:/TAcademy/nginx/MYSITE/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2023/08/03 09:45:29 [error] 37364#31004: *1 CreateFile() "C:/TAcademy/nginx/MYSITE/count/style.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /count/style.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/count/1"
+2023/08/03 09:52:15 [notice] 4692#33876: signal process started
+2023/08/03 09:52:31 [error] 37364#31004: *4 CreateFile() "C:/TAcademy/nginx/MYSITE/cropts" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /cropts HTTP/1.1", host: "localhost:8080"
+2023/08/03 09:52:34 [error] 37364#31004: *4 CreateFile() "C:/TAcademy/nginx/MYSITE/crops" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /crops HTTP/1.1", host: "localhost:8080"
+2023/08/03 09:53:13 [error] 37364#31004: *4 CreateFile() "C:/TAcademy/nginx/MYSITE/crops" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /crops HTTP/1.1", host: "localhost:8080"
+2023/08/03 09:55:01 [error] 37364#31004: *7 CreateFile() "C:/TAcademy/nginx/MYSITE/crops" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /crops HTTP/1.1", host: "localhost:8080"
+2023/08/03 10:00:14 [error] 37364#31004: *10 CreateFile() "C:/TAcademy/nginx/MYSITE/crops" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /crops HTTP/1.1", host: "localhost:8080"
+2023/08/03 10:00:14 [error] 37364#31004: *10 CreateFile() "C:/TAcademy/nginx/MYSITE/crops" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /crops HTTP/1.1", host: "localhost:8080"
+2023/08/03 10:00:15 [error] 37364#31004: *10 CreateFile() "C:/TAcademy/nginx/MYSITE/crops" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /crops HTTP/1.1", host: "localhost:8080"
+2023/08/03 10:38:29 [error] 37364#31004: *14 CreateFile() "C:/TAcademy/nginx/MYSITE/crops" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /crops HTTP/1.1", host: "localhost:8080"
+2023/08/03 10:38:29 [error] 37364#31004: *14 CreateFile() "C:/TAcademy/nginx/MYSITE/crops" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /crops HTTP/1.1", host: "localhost:8080"
